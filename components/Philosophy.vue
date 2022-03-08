@@ -21,11 +21,11 @@ We turn each of these characters into artwork and publish them in NFT form. So t
 Every artwork drawn manually by hand and minted 1 of 1 edition every artwork.
 </p>
           <div class="relative flex flex-col sm:flex-row sm:space-x-4">
-            <a href="#_" class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-yellow-500 rounded-md sm:mb-0 hover:bg-yellow-600 sm:w-auto">
+            <a href="#_" class="rounded-full flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-yellow-500 rounded-md sm:mb-0 hover:bg-yellow-600 sm:w-auto">
               View Collection
               <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 ml-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
             </a>
-            <NuxtLink to="story" class="flex items-center px-6 py-3 text-gray-500 bg-gray-100 rounded-md hover:bg-gray-200 hover:text-gray-600">
+            <NuxtLink to="story" class="rounded-full flex items-center px-6 py-3 text-gray-500 bg-gray-100 rounded-md hover:bg-gray-200 hover:text-gray-600">
               Read The Story
             </NuxtLink>
           </div>

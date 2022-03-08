@@ -4,6 +4,7 @@
   <LogoFeatured/>
   <Philosophy/>
   <Faq/>
+  <Cta/>
   <Footer/>
 </div>
 </template>

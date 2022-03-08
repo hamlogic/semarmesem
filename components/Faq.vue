@@ -1,7 +1,7 @@
 <template>
     
 <!-- Section 1 -->
-<section class="py-24 bg-white border-b border-gray-200">
+<section class="py-24 bg-white">
     <div class="px-8 mx-auto max-w-7xl lg:px-16">
         <h2 class="mb-4 text-xl font-bold md:text-3xl">Frequently Asked Questions</h2>
         <div class="grid grid-cols-1 gap-0 text-gray-600 md:grid-cols-2 md:gap-16">
@@ -21,7 +21,7 @@
                 <h5 class="mt-10 mb-3 font-semibold text-gray-900">How much the royalty fee?</h5>
                 <p>Currently we set the royalty fee is 15% to support the creator and the teams.</p>
                 <h5 class="mt-10 mb-3 font-semibold text-gray-900">Can i get whitelisted on future mint?</h5>
-                <p>Currently no, we doesn't provide whitelisted address for our art. Everyone can make offer after we mint the NFTs.</p>
+                <p>Currently no, we doesn't provide whitelisted address for our art. Everyone can make offer after we mint the NFTs. But you can earn EXP on our Discord server by active in community for future event, and if you a collector you can join our private room on Discord to get early updates and benefit than other members.</p>
                 <h5 class="mt-10 mb-3 font-semibold text-gray-900">Can i know more about this project?</h5>
                 <p>If you need help or have any question about our project, feel free to contact us via Twitter, Instagram, or Discord. Follow us and stay updated.
                 </p>
