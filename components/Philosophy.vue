@@ -18,7 +18,7 @@ Each character describes the traits of humans living today. Every human being ha
 <br/><br/>
 We turn each of these characters into artwork and publish them in NFT form. So that everyone can have each of these characters and choose which one represents themselves, or just collect them.
 <br/><br/>
-Every artwork drawn manually by hand and minted 1 of 1 every edition.
+Every artwork drawn manually by hand and minted 1 of 1 edition every artwork.
 </p>
           <div class="relative flex flex-col sm:flex-row sm:space-x-4">
             <a href="#_" class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-yellow-500 rounded-md sm:mb-0 hover:bg-yellow-600 sm:w-auto">
