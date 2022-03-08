@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Xanh Mono";
+    src: local("Xanh Mono"),
+     url(~assets/fonts/XanhMono-Regular.ttf) format("truetype");
+}
+
+html {
+    font-family: 'Xanh Mono', monospace;
+}
