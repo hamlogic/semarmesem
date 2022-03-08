@@ -23,7 +23,7 @@
             </a>
         
 
-            <a href="#" class="text-gray-400 hover:text-gray-500">
+            <a href="https://discord.gg/HjPh6tDXyf" class="text-gray-400 hover:text-gray-500" target="_blank">
                 <span class="sr-only">Discord</span>
                 <svg class="w-6 h-6" aria-hidden="true" viewBox="0 0 71 55" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0)">
