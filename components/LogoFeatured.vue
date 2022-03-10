@@ -1,7 +1,7 @@
 <template>
     
 <!-- Section 1 -->
-<section class="bg-gray-100 items-center ">
+<section class="border-b border-t border-gray-200 items-center ">
     <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 lg:px-8 ">
         <div class="grid grid-cols-2 gap-8 ">
             <div class="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
