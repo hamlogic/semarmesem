@@ -5,6 +5,7 @@
   <Philosophy/>
   <Faq/>
   <Cta/>
+  <ContactUs/>
   <Footer/>
 </div>
 </template>
