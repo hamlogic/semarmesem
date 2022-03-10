@@ -2,7 +2,7 @@
     <div>
         
 <!-- Section 1 -->
-<section class="px-2 py-32 bg-white md:px-0 border-b border-gray-200">
+<section class="px-2 py-32 bg-white md:px-0 border-b border-gray-200" id="about">
   <div class="container items-center max-w-6xl px-8 mx-auto xl:px-5">
     <div class="flex flex-wrap items-center sm:-mx-3">
         

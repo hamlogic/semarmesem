@@ -1,7 +1,7 @@
 <template>
     
 <!-- Section 1 -->
-<section class="py-20 bg-white border-b bprder-gray-200">
+<section class="py-20 bg-white border-b bprder-gray-200" id="contact">
     <div class="px-4 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
         <h2 class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-2xl md:text-3xl xl:text-4xl">
             Business Inquiries

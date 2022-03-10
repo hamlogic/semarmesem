@@ -1,7 +1,7 @@
 <template>
     
 <!-- Section 1 -->
-<section class="py-24 bg-white border-b border-gray-200">
+<section class="py-24 bg-white border-b border-gray-200" id="faq">
     <div class="px-8 mx-auto max-w-7xl lg:px-16">
         <h2 class="mb-4 text-xl font-bold md:text-3xl">Frequently Asked Questions</h2>
         <div class="grid grid-cols-1 gap-0 text-gray-600 md:grid-cols-2 md:gap-16">

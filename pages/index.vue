@@ -1,5 +1,6 @@
 <template>
 <div>
+  <Menu/>
   <Navbar/>
   <LogoFeatured/>
   <Philosophy/>

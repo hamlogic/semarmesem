@@ -1,7 +1,7 @@
 <template>
     
 <!-- Section 1 -->
-<section class="w-full py-12 bg-white lg:py-24 border-b border-gray-200">
+<section class="w-full py-12 bg-white lg:py-24 border-b border-gray-200" id="team">
     <div class="max-w-6xl px-12 mx-auto text-center">
         <div class="space-y-12 md:text-center">
             <div class="max-w-3xl mb-20 space-y-5 sm:mx-auto sm:space-y-4">
@@ -10,7 +10,7 @@
             </div>
         </div>
 
-        <div class="grid grid-cols-2 gap-10 sm:grid-cols-2 lg:grid-cols-2">
+        <div class="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-2">
             <div class="w-full border border-gray-200 rounded-lg shadow-sm">
 
                 <div class="flex flex-col items-center justify-center p-10">

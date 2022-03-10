@@ -1,5 +1,6 @@
 <template>
 <div>
+  <Menu/>
   <!-- Section 1 -->
 <section class="px-2 py-32 bg-white md:px-0 border-b border-gray-200">
   <div class="container items-center max-w-6xl px-8 mx-auto xl:px-5">
