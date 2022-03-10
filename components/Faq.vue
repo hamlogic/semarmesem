@@ -1,7 +1,7 @@
 <template>
     
 <!-- Section 1 -->
-<section class="py-24 bg-white">
+<section class="py-24 bg-white border-b border-gray-200">
     <div class="px-8 mx-auto max-w-7xl lg:px-16">
         <h2 class="mb-4 text-xl font-bold md:text-3xl">Frequently Asked Questions</h2>
         <div class="grid grid-cols-1 gap-0 text-gray-600 md:grid-cols-2 md:gap-16">
@@ -11,7 +11,7 @@
                 <h5 class="mt-10 mb-3 font-semibold text-gray-900">What is Semarmesem.art?</h5>
                 <p>Semarmesem.art is an artwork with the theme of characters in the Mahabharata and Ramayana stories. Each character describes the traits of humans living today. Every human being has a different nature, some are good, while others have bad traits.</p>
                 <h5 class="mt-10 mb-3 font-semibold text-gray-900">Who is the creator of Semarmesem.art?</h5>
-                <p>Semarmesem.art is created by 3 man who want to bring the cultural Javanesse mythology to be a NFTs. Currently we called ourself Semarmesem Team. And who the hell we are? We are a man dude.</p>
+                <p>Semarmesem.art is created by 3 man who want to bring the cultural Javanesse mythology to be a NFTs. Scroll to Team Section on this page to know more.</p>
                 <h5 class="mt-10 mb-3 font-semibold text-gray-900">Why Semarmesem.art so exclusive?</h5>
                 <p>Every art created by hand-drawn, manually, and minted just 1 of 1 every art. Every character have their own traits, representation of human traits. This NFTs created by professional digital artist & illustrator team.</p>
             </div>

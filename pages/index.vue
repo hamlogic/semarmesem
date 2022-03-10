@@ -3,9 +3,10 @@
   <Navbar/>
   <LogoFeatured/>
   <Philosophy/>
-  <Faq/>
   <Cta/>
+  <Team/>
   <ContactUs/>
+  <Faq/>
   <Footer/>
 </div>
 </template>
