@@ -11,7 +11,7 @@
             <div class="mx-auto mt-5 text-gray-500 md:mt-12 md:max-w-lg md:text-center lg:text-lg">Bring the cultural Javanesse mythology into the Blockchain. Created by professional Graphic Designer team, exclusive on Ethereum Blockchain. Just 1 of 1 edition every art.</div>
             <div class="flex flex-col items-center mt-12 text-center">
                 <span class="relative inline-flex w-full md:w-auto">
-                    <a href="#_" type="button" class="inline-flex items-center justify-center w-full px-8 py-4 text-base font-bold leading-6 text-white bg-yellow-500 border border-transparent rounded-full md:w-auto hover:bg-yellow-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500">
+                    <a href="https://foundation.app/@semarmesem" target="_blank" type="button" class="inline-flex items-center justify-center w-full px-8 py-4 text-base font-bold leading-6 text-white bg-yellow-500 border border-transparent rounded-full md:w-auto hover:bg-yellow-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500">
                         View Collection
                     </a>
                     <span class="absolute top-0 right-0 px-2 py-1 -mt-3 -mr-6 text-xs font-medium leading-tight text-white bg-green-400 rounded-full">Exclusive on Foundation</span>
