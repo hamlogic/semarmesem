@@ -16,7 +16,7 @@
                     <a href="https://foundation.app/@semarmesem" target="_blank" type="button" class="inline-flex items-center justify-center w-full px-8 py-4 text-base font-bold leading-6 text-white bg-purple-500 border border-transparent rounded-full md:w-auto hover:bg-purple-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 ease-in-out duration-300">
                         View Collection
                     </a>
-                    <span class="absolute top-0 right-0 px-2 py-1 -mt-3 -mr-6 text-xs font-medium leading-tight text-purple-600 bg-purple-200 rounded-full">Exclusive on Foundation</span>
+                    <span class="absolute top-0 right-0 px-2 py-1 -mt-3 -mr-6 text-xs font-medium leading-tight text-purple-600 bg-purple-200 rounded-full animate-pulse ">Exclusive on Foundation</span>
                 </span>
             </div>
         </div>
