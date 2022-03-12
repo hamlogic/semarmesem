@@ -1,9 +1,9 @@
 @font-face {
-    font-family: "Xanh Mono";
-    src: local("Xanh Mono"),
-     url(~assets/fonts/XanhMono-Regular.ttf) format("truetype");
+    font-family: "Nunito";
+    src: local("Nunito"),
+     url(~assets/fonts/Nunito-Medium.ttf) format("truetype");
 }
 
 html {
-    font-family: 'Xanh Mono', monospace;
+    font-family: 'Nunito', sans-serif;
 }

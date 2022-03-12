@@ -9,14 +9,14 @@
         <div class="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
           <h1 class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl">
             <span class="block xl:inline">The Story of</span>
-            <span class="block text-yellow-500 xl:inline">Ramayana</span>
+            <span class="block text-purple-500 xl:inline">Ramayana</span>
           </h1>
           <p class="mx-auto text-base text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">Kakawin Ramayana is an Old Javanese poem rendering of the Sanskrit Ramayana in kakawin meter. Kakawin Rāmâyaṇa is a kakawin, the Javanese form of kāvya, a poem modeled on traditional Sanskrit meters.It is believed to have been written in Central Java (modern Indonesia) in approximately the late ninth or early tenth century, during the era of Medang Kingdom. <br/><br/>According to its latest English translator, Stuart Robson: ″the Old Javanese Rāmāyaṇa was written between 856 and about 930, with the likelihood that the last section was added in the period 900-930. <br/><br/>Among the Javanese, Kakawin Ramayana has always been considered the pinnacle of artistic expression. The large number of preserved manuscripts attest to its popularity and adaptation. It is the lengthiest of all the Old Javanese kakawins of the Hindu-Buddhist period of Java.
 </p>
 
 <h1 class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl md:text-3xl lg:text-5xl xl:text-4xl">
             <span class="block xl:inline">The</span>
-            <span class="block text-yellow-500 xl:inline">Synopsis</span>
+            <span class="block text-purple-500 xl:inline">Synopsis</span>
           </h1>
           <p class="mx-auto text-base text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">
 Dasarata from Ayodya had four sons: Rama, Bharata, Laksmana and Shatrughna. One day an ascetic named Wiswamitra requested that Dasaratha help him to repel a demon attack on his hermitage. Then Rama and Laksmana departed.
