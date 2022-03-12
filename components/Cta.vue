@@ -1,7 +1,7 @@
 <template>
     
 <!-- Section 1 -->
-<section class="py-8 leading-7 text-gray-900 bg-purple-100 bg-gradient-to-bl from-purple-100 via-purple-200 to-purple-400 sm:py-12 md:py-16 lg:py-24 border-b border-gray-200">
+<section class="py-8 leading-7 text-gray-900 bg-purple-100 sm:py-12 md:py-16 lg:py-24 border-b border-gray-200">
     <div class="max-w-6xl px-4 px-10 mx-auto border-solid lg:px-12">
         <div class="flex flex-col items-start leading-7 text-gray-900 border-0 border-gray-200 lg:items-center lg:flex-row">
             <div class="box-border flex-1 text-center border-solid sm:text-left">
