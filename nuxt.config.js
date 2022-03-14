@@ -50,6 +50,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     ['vue-scrollto/nuxt', { duration: 300 }],
+    '@nuxtjs/sitemap',
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
@@ -58,5 +59,13 @@ export default {
 
   googleAnalytics: {
     id: 'G-NZTYY3T204'
-  }
+  },
+
+  sitemap: {
+    hostname: 'https://semarmesem.art',
+    gzip: true,
+    routes: [
+      '/story',
+    ]
+  },
 }
